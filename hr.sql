@@ -6,5 +6,6 @@ select * from JOBS
 select * from JOB_HISTORY
 select * from LOCATIONS
 select * from REGIONS
-
 select * from emp_details_view
+
+select * from tab

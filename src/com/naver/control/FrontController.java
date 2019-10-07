@@ -10,7 +10,6 @@ import com.naver.control.JobController;
 import com.naver.control.JobHController;
 import com.naver.control.LocController;
 import com.naver.control.RegController;
-import com.naver.view.EmpView;
 
 public class FrontController {
 	private Scanner sc;
